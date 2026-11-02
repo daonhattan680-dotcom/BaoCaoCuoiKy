@@ -49,3 +49,11 @@ BaoCaoCuoiKy/
 ├── README.md
 └── requirements.txt
 ```
+
+data/raw	        Chứa dữ liệu gốc ban đầu
+notebooks	        Chứa code phân tích dữ liệu và huấn luyện mô hình
+src	                Chứa code xử lý và các hàm có thể tái sử dụng
+results/figures	    Chứa các biểu đồ, hình ảnh kết quả
+report	            Chứa báo cáo đồ án
+README.md	        Giới thiệu project và hướng dẫn chạy
+requirements.txt	Danh sách thư viện Python cần cài đặt
